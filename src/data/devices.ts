@@ -16,14 +16,14 @@ export type DeviceCategory = {
 };
 
 export const devicesData: DeviceCategory = {
-	OnePlus: [
+	Redmi: [
 		{
-			name: "OnePlus 13T",
+			name: "Redmi K60",
 			image: "/images/device/oneplus13t.png",
-			specs: "Gray / 16G + 1TB",
+			specs: " 墨羽/ 16G + 512",
 			description:
-				"Flagship performance, Hasselblad imaging, 80W SuperVOOC.",
-			link: "https://www.oneplus.com/cn/13t",
+				"红米K60是2000+元高性价比水桶机，搭载 骁龙8+处理器和2K高刷屏。核心亮点是 5500mAh长续航+67W有线+30W无线充 性能与体验均衡无短板。",
+			link: "https://www.mi.com/shop/buy/detail?product_id=18075&cfrom=search",
 		},
 	],
 	Router: [
